@@ -32,5 +32,4 @@ Instalación de los requerimientos del proyecto con pip
 
 - [César Maldonado Trujillo](https://github.com/CesarMaldonado14)
 - [Santiago Avilés Tibocha](https://github.com/Aviles17)
-
-- [Santiago Botero Pacheco]()
+- [Santiago Botero Pacheco](https://github.com/SBoteroP)
